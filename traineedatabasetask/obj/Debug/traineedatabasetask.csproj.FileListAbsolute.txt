@@ -1,0 +1,2 @@
+d:\Users\Admin\source\repos\traineedatabasetask\traineedatabasetask\obj\Debug\traineedatabasetask.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\traineedatabasetask\traineedatabasetask\obj\Debug\traineedatabasetask.csproj.CoreCompileInputs.cache
